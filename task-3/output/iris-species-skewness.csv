@@ -1,0 +1,4 @@
+"species","sepal_length_skewness","sepal_width_skewness","petal_length_skewness","petal_width_skewness"
+"Iris-setosa","0.09","0.16","-0.71","1.09"
+"Iris-versicolor","0.23","-0.29","-0.57","0.45"
+"Iris-virginica","0.42","-0.28","0.00","0.33"
